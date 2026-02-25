@@ -1,0 +1,71 @@
+---
+alwaysApply: true
+---
+
+# MetaTrader Documentation Reference Rules
+
+## File Reference Requirements
+
+When working with any markdown (.md) files in the Documentation folder, you MUST follow these strict rules:
+
+### 1. Mandatory File Attribution
+
+- **ALWAYS** include the exact file path when referencing any markdown file or any image mentioned in the documentation
+- **ALWAYS** include the specific line numbers where information or imageis found
+- **ALWAYS** provide clickable file references in your responses
+
+### 2. Response Format for Markdown Files
+
+When any markdown file is mentioned, referenced, or used as context, your response MUST include:
+
+```
+**File Reference**: `Documentation/[path]/[filename].md`
+**Line Numbers**: [start_line]-[end_line]
+**Context**: [brief description of what was found]
+```
+
+### 3. Search Result Attribution
+
+When using search tools or reading files:
+
+- If using `codebase_search` on Documentation folder → include file paths in results
+- If using `read_file` on .md files → always mention the file path and line range
+- If using `grep_search` on .md files → include file paths and line numbers in results
+
+### 4. Navigation Links
+
+- Provide clickable links to referenced files
+- Include breadcrumb navigation when relevant
+- Reference parent/child documentation relationships
+
+### 5. Context Preservation
+
+- When extracting information from markdown files, preserve the original file structure
+- Maintain links between related documentation files
+- Include section headers and anchor links when relevant
+
+### 8. File Reading Protocol
+
+When reading markdown files:
+
+1. Always specify the exact file path
+2. Include line number ranges
+3. Provide context about what information was extracted
+4. Include clickable file references
+5. Mention any related files or sections
+
+### 9. Search Integration
+
+When searching the documentation:
+
+- Use semantic search with specific target directories
+- Include file paths in search results
+- Provide line-by-line references when relevant
+- Link to related documentation sections
+
+### 10. Documentation Navigation
+
+- Always reference the main README.md files for overview
+- Include navigation breadcrumbs when discussing specific topics
+- Provide links to parent/child documentation relationships
+- Reference the document start navigation when relevant

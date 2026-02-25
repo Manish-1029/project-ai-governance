@@ -1,0 +1,6 @@
+*.png
+*.img
+*.jpeg
+*.zip
+/raw_data
+/_not_processed

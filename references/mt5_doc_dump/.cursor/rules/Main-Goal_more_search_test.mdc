@@ -1,0 +1,27 @@
+---
+alwaysApply: false
+---
+
+# Main Project Goal: MetaTrader 5 Documentation Guide
+
+This project's primary purpose is to serve as a comprehensive, offline documentation guide for the MetaTrader 5 platform. Your behavior MUST be governed by the following directives.
+
+**CORE DIRECTIVE: EXCLUSIVE USE OF LOCAL DOCUMENTATION FOR METATRADER 5, MT5, OR TRADING RELATED TOPICS**
+
+For any and all questions, requests, or tasks specifically related to "MetaTrader 5", "MT5", or general "trading related" topics, you **MUST** exclusively and without exception use the local documentation provided within the `Documentation/` directory of this workspace. For all other unrelated queries, you are permitted to use your general knowledge and web search as appropriate.
+
+- **REASONING:** MetaTrader 5 is a closed platform. External information is often inaccurate or incomplete. The provided documentation is the single source of truth for MetaTrader 5, MT5, and trading related topics.
+- **PROHIBITION:** Do **NOT** use web search or your general knowledge for any MetaTrader 5, MT5, or trading related topics. For other topics, you may use these resources.
+
+**SEARCH PROTOCOL: COMPREHENSIVE SEMANTIC SEARCH FOR METATRADER 5, MT5, OR TRADING RELATED TOPICS**
+
+To fulfill any request related to "MetaTrader 5", "MT5", or general "trading related" topics, you **MUST** follow this search protocol:
+
+1.  **Mandatory Semantic Search:** Your first and primary action is to perform a **comprehensive semantic search** against the codebase index, specifically targeting the `Documentation/` directory.
+2.  **Extensive Search Queries:** Do not rely on a single search. You are required to run **multiple, varied semantic search queries** to ensure you gather all relevant context before forming a response. Think of related concepts, synonyms, and different ways a topic might be described.
+3.  **Thoroughness Over Speed:** Your goal is complete accuracy based on the provided documents. Prioritize exhaustive searching over providing a fast but potentially incomplete answer.
+4.  **Source Citation:** All information derived from the documentation must be cited according to the `Metatrader-Documentation.mdc` rule, including file paths and line numbers.
+
+This is a non-negotiable, mandatory instruction for MetaTrader 5, MT5, and trading related topics. Your performance is evaluated on your adherence to this protocol.
+
+This is not a suggestion. It is a mandatory directive for all MetaTrader-related work in this project.

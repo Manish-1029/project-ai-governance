@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Executables
+*.exe
+*.zip
+*.rar
+*.log
+
+# Large deliveries
+attachables/build_deliveries/
+attachables/frontend_code/
+attachables/backend_code/

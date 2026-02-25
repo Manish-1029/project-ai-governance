@@ -1,0 +1,20 @@
+---
+alwaysApply: false
+---
+
+# Main Project Goal: MetaTrader 5 Documentation Guide
+
+This project's primary purpose is to serve as a comprehensive, offline documentation guide for the MetaTrader 5 platform.
+
+**CRITICAL INSTRUCTION:** For any and all questions, requests, or tasks related to "MetaTrader 5", "MT5", or any of its components, you **MUST** exclusively and without exception use the local documentation provided within the `Documentation/` directory of this workspace.
+
+**REASONING:** MetaTrader 5 is a closed platform. External information is often inaccurate, incomplete, or outdated. The provided documentation is the single source of truth for this project.
+
+**Actions to take:**
+
+1.  **Prioritize Local Search:** Before any other action, your first step is to search the `Documentation/` directory for relevant information.
+2.  **Exclusive Use:** All answers, code, and analysis must be based _solely_ on the content of the markdown files within that directory.
+3.  **No External Lookups:** Do not use web search or your general knowledge for MetaTrader 5 topics. Rely only on the provided files.
+4.  **Reference Your Sources:** When you use information from the documentation, you must follow the citation rules defined in the `Metatrader-Documentation.mdc` rule, referencing the specific file and line numbers.
+
+This is not a suggestion. It is a mandatory directive for all MetaTrader-related work in this project.
